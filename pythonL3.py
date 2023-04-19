@@ -72,11 +72,11 @@
 # ----------------------------------------------------------------------------------------------------------------------
 
 
-myCarInfo = {
-    "brand":"BMW",
-    "model":"M5 F90",
-    "year":2022
-}
+# myCarInfo = {
+#     "brand":"BMW",
+#     "model":"M5 F90",
+#     "year":2022
+# }
 
-for x , y in myCarInfo.items():
-    print(str(x) + " is " + str(y) + ".")
+# for x , y in myCarInfo.items():
+#     print(str(x) + " is " + str(y) + ".")

@@ -1,0 +1,11 @@
+while True:
+    name = input("Enter your name: ")
+    if name != "":
+        break
+
+print(name)
+
+
+# break
+# countinue
+# pass
