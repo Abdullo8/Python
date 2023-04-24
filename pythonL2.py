@@ -1,7 +1,7 @@
-pythonStudentList = ["Abdullo", "Sadriddin", "Said", "Ali", "Ahmad", "Muhammad"]
+# pythonStudentList = ["Abdullo", "Sadriddin", "Said", "Ali", "Ahmad", "Muhammad"]
 
-for x in pythonStudentList:
-    print(x)
+# for x in pythonStudentList:
+#     print(x)
     
 
 
