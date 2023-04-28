@@ -1,7 +1,7 @@
 def f(city):
-    if city == "Dushanbe":
+    if city.lower() == "dushanbe":
         print(city + " population are more than 10M")
-    if city == "Russia":
+    if city.lower() == "russia":
         print(city + " population are more than 30M")
 
 myCity = input("Write your city: ")
