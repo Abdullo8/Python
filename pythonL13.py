@@ -42,12 +42,3 @@ while True:
         print("You guessed a smaller number, please select a bigger one! ")
     
 print("You found the random number after", guesses,"guesses")
-
-    
-
-
-
-
-
-
-
