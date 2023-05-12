@@ -11,7 +11,7 @@ def showTime():
     clock.after(1000, showTime)
 
 clock = Label(window, font=("Showcard Gothic", 100),
-background="white", foreground="green")
+background="white", foreground="grey")
 clock.pack()
 
 showTime()
