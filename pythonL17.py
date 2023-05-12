@@ -24,4 +24,4 @@ get_button = Button(root, text="Get New- Qoute", command=get_quote)
 text_box.pack()
 get_button.pack()
 
-root.mainloop()
+root.mainloop()             # https://rapidapi.com/weatherapi/api/weatherapi-com/
